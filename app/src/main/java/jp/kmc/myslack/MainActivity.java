@@ -9,5 +9,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+     //ボタンを設定
+        //Button button=(Button)findViewByID(R.id.buttonA);
     }
 }
